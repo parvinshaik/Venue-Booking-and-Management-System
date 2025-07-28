@@ -1,6 +1,6 @@
 # 🎪 VenueHub – Venue Booking & Management System
 
-**VenueHub** is a full-stack web application built using the **MERN** stack (MongoDB, Express.js, React, Node.js) that streamlines the booking and management of venues such as auditoriums, seminar halls, and classrooms — especially for educational institutions.
+**VenueHub** is a full-stack web application built using the **MERN** stack (MongoDB, Express.js, React, Node.js) that streamlines the booking and management of venues such as auditoriums, seminar halls, and classrooms,Playgrounds, — especially for educational institutions.
 
 It features a structured and transparent **multi-level approval workflow** involving Event Coordinators, Heads of Departments (HODs), and Principals. The platform also automates communication and generates official documents to simplify event organization.
 
@@ -22,7 +22,7 @@ It features a structured and transparent **multi-level approval workflow** invol
   - Insights on booking trends and venue usage
 - 🔐 **JWT-based Secure Authentication**
 - 📱 **Responsive Design**
-  - Works smoothly on mobile, tablet, and desktop
+  - Works smoothly on desktop
 
 
 
